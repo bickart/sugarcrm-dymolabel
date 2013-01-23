@@ -1,4 +1,4 @@
 sugarcrm-dymolabel
 ==================
 
-Add Dymo Label printing capabilities to SugarCRM Contacts
+This project provides details on how to add Dymo Label printing to SugarCRM Contacts
